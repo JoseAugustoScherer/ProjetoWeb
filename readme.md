@@ -21,6 +21,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DEV Links" src=".github/DevLikns.jpg" width="100%">
 </p>
 
+<p align="center">
+  <a  href="https://joseaugustoscherer.github.io/devlinks/">Acesse o site aqui!</a>
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
