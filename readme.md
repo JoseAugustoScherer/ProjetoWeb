@@ -22,7 +22,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <a  href="https://joseaugustoscherer.github.io/devlinks/">Acesse o site aqui!</a>
+  <a  href="https://joseaugustoscherer.github.io/devlinks/" targer="_blank">Acesse o site aqui!</a>
 </p>
 
 ## 🚀 Tecnologias
